@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **MarcoLeeTL/MarcoLeeTL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: 
@@ -15,4 +14,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: oked.
 
 ![PINK FROG RUN!!!](https://media.tenor.com/Aql9T8ewtscAAAAi/pink-frog.gif)
--->
